@@ -5,6 +5,7 @@ import './styles.css';
 const Home = () => (
 	<section class='home section' id='home'>
 		<div class='intro'>
+			<h2>I provide professional web development services to IT companies.</h2>
 			<img src={ProfileImage} alt='logo' crossorigin='anonymous' />
 			<h1>Nataliia Kaliuzhna</h1>
 			<span>Senior Software Engineer</span>
