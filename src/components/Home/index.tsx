@@ -6,7 +6,7 @@ const Home = () => (
 	<section class='home section' id='home'>
 		<div class='intro'>
 			<img src={ProfileImage} alt='logo' crossorigin='anonymous' />
-			<h1>Iryna Shcherbak</h1>
+			<h1>Nataliia Kaliuzhna</h1>
 			<span>Senior Software Engineer</span>
 			<ul class='social-icons'>
 				<li>
