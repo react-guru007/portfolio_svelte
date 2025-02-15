@@ -5,7 +5,12 @@ import './styles.css';
 const Home = () => (
 	<section class='home section' id='home'>
 		<div class='intro'>
-			<h2>I provide professional web development services to IT companies.</h2>
+			<h2 style="
+    margin-bottom: 40px;
+    max-width: 600px;
+    margin-left: auto;
+    margin-right: auto;
+">I provide professional web development services to IT companies.</h2>
 			<img src={ProfileImage} alt='logo' crossorigin='anonymous' />
 			<h1>Nataliia Kaliuzhna</h1>
 			<span>Senior Software Engineer</span>
