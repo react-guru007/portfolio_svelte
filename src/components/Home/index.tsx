@@ -12,7 +12,7 @@ const Home = () => (
     margin-right: auto;
 ">I provide professional web development services to IT companies.</h2>
 			<img src={ProfileImage} alt='logo' crossorigin='anonymous' />
-			<h1>Nataliia Kaliuzhna</h1>
+			<h1>Robert Wang</h1>
 			<span>Senior Software Engineer</span>
 			<ul class='social-icons'>
 				<li>
