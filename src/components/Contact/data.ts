@@ -1,5 +1,5 @@
 const CONTACTS = {
-	phoneNumber: '+380 661291523',
-	email: 'nataliiakalyuzhna@outlook.com',
+	phoneNumber: '+628521381645',
+	email: 'robertwang0315@gmail.com',
 };
 export default CONTACTS;
